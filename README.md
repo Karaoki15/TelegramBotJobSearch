@@ -5,7 +5,7 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white"></a>
     <a href="#"><img alt="aiogram" src="https://img.shields.io/badge/aiogram-3.3-2C2D72"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"></a>
-    <a href="https://instagram.com/vlad.khoro"><img alt="Author" src="https://img.shields.io/badge/Author-Vlad%20Khoroshilov-8A2BE2"></a>
+    <a href="https://www.instagram.com/vlad.khoro/"><img alt="Author" src="https://img.shields.io/badge/Author-Vlad%20Khoroshylov-8A2BE2"></a>
   </p>
   <!-- Optional banner image for a nicer GitHub look -->
   <!-- <img src="docs/cover.png" alt="Project cover" width="900"> -->
